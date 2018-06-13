@@ -1,5 +1,5 @@
 {
-  "name": "thrnio-ip",
+  "name": "velocix-thrnio-ip",
   "version": "1.0.1",
   "author": "thrnio",
   "summary": "Provide some data type aliases for IP addresses",
